@@ -1,0 +1,12 @@
+h1{
+    font-family: 'Pacifico', cursive;
+}
+
+#cardCanilla{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.inline{
+    display: inline;
+}
